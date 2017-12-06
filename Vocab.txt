@@ -1,0 +1,3 @@
+- Vocab -
+API: application programming interface
+Django: Python backend framework
