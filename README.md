@@ -4,7 +4,7 @@ Starting from nothing, going to learn how to do web development.
 
 I know nothing about web development.
 
-But I'm going to learn. And fast.
+But I'm going to learn.
 
 The goal is to raise my old favorite browser game from the grave.
 
